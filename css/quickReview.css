@@ -1,0 +1,11 @@
+#plusOneFooter {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    overflow: visible;
+    z-index: 99;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background: #60b044;
+    cursor: pointer;
+}
